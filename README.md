@@ -18,8 +18,8 @@ I'm a passionate Unity game developer with a strong love for creating meaningful
 
 **Gameplay screenshots**
 
-<img src="https://i.ibb.co/RyYNMvQ/photo-2023-03-22-13-35-22.jpg" alt="Flappy Birdy Gameplay 1" width="300"> <img src="https://i.ibb.co/9VKK5FR/photo-2023-03-22-13-36-28.jpg" alt="Flappy Birdy Gameplay 2" width="300">
-<img src="https://i.ibb.co/JQgWzL9/photo-2023-03-22-13-34-02.jpg" alt="Flappy Birdy Gameplay 3" width="300">
+<img src="https://i.ibb.co/RyYNMvQ/photo-2023-03-22-13-35-22.jpg" alt="Flappy Birdy Gameplay 1" width="200"> <img src="https://i.ibb.co/9VKK5FR/photo-2023-03-22-13-36-28.jpg" alt="Flappy Birdy Gameplay 2" width="200">
+<img src="https://i.ibb.co/JQgWzL9/photo-2023-03-22-13-34-02.jpg" alt="Flappy Birdy Gameplay 3" width="200">
 
 [Google Play](https://play.google.com/store/apps/details?id=com.ChanCom.Flappybirdy&pcampaignid=web_share)
 

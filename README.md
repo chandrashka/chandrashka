@@ -56,7 +56,7 @@ bird customization, simple animation, difficulty modes, Unity Ads
 - **Decription:** A shooter in which you have to kill as many zombies as possible.
 - **Game features:** third person controller
 
-### [Battle City]([https://github.com/chandrashka/FlappyBirdy](https://github.com/chandrashka/BattleCity)) 
+### [Battle City](https://github.com/chandrashka/BattleCity) 
 
 [Gameplay video](https://youtu.be/XR9kZzVP_xU)
 

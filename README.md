@@ -36,8 +36,8 @@ bird customization, simple animation, difficulty modes, Unity Ads
 
 **Gameplay screenshots**
 
-<img src="https://i.ibb.co/h9pbLSD/photo-1-2023-08-02-12-32-32.jpg" alt="Hole monster Gameplay 1" width="300"> <img src="https://i.ibb.co/5j5XnSX/photo-2-2023-08-02-12-32-32.jpg" alt="Hole monster Gameplay 2" width="300">
-<img src="https://i.ibb.co/9vrvX8X/photo-3-2023-08-02-12-32-32.jpg" alt="Hole monster Gameplay 3" width="300">
+<img src="https://i.ibb.co/h9pbLSD/photo-1-2023-08-02-12-32-32.jpg" alt="Hole monster Gameplay 1" width="200"> <img src="https://i.ibb.co/5j5XnSX/photo-2-2023-08-02-12-32-32.jpg" alt="Hole monster Gameplay 2" width="200">
+<img src="https://i.ibb.co/9vrvX8X/photo-3-2023-08-02-12-32-32.jpg" alt="Hole monster Gameplay 3" width="200">
 
 - **Platform:** Android
 - **Decription:** My clone of hyper-casual game Hole.io

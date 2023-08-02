@@ -74,7 +74,6 @@ your base with a tank and kill enemies.
 
 - Unity
 - C#
-- Simple 2D/3D Animation
 - Git
 
 ## Education

@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate Unity game developer with a strong love for creating meaningful gaming experiences. While I haven't had commercial experience yet, I've completed various personal projects that showcase my skills. Let's make something amazing together! Check out my projects below and feel free to connect with me through the provided contact information.
+I'm a passionate Unity game developer with a strong love for creating meaningful gaming experiences. I have been working as a Unity developer at PostPhysical Company since September 2023, gaining valuable commercial experience. In addition to my professional role, I've successfully completed various personal projects that showcase my skills. Let's make something amazing together! Check out my projects below, and feel free to connect with me through the provided contact information.
 
 ## Contact
 

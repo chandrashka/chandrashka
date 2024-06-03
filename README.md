@@ -7,7 +7,7 @@ I'm a passionate Unity game developer with a strong love for creating meaningful
 ## Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/yuliia-ataman-b67451226/
-- **Telegram:** https://t.me/today_solnechno
+- **Telegram:** https://t.me/chandrashka
 - **Gmail:** julia10942@gmail.com
   
 ## Projects

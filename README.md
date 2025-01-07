@@ -1,4 +1,4 @@
-# Hi 👋, I'm Yuliia Ataman
+![image](https://github.com/user-attachments/assets/9f005c38-c08b-440d-89ab-7ec717afbdcd)# Hi 👋, I'm Yuliia Ataman
 
 ## About Me
 
@@ -17,7 +17,8 @@ I'm a passionate Unity game developer with a strong love for creating meaningful
 **Gameplay screenshots**
 
 <img src="https://play-lh.googleusercontent.com/eZ_bokDYcxEQPHxLOPK_9KHyMmrGNhrFW2rGEgYmxh5VkBEK28TlCM5K8O7YONn_Zfw=w526-h296-rw" alt="Idle Bounty Gameplay 1" width="200"> 
-<img src="[https://i.ibb.co/9VKK5FR/photo-2023-03-22-13-36-28.jpg](https://cdn.discordapp.com/attachments/792859491838066718/1309554708733493288/Image_Sequence_027_0002.jpg?ex=677ea65c&is=677d54dc&hm=b2dbeee9039134d7af23b9312a1c76e0eddcfd1d97b2a97266f7271de9cd1cbf&)" alt="Idle Bounty Gameplay 2" width="200">
+<img src="https://play-lh.googleusercontent.com/rJ2JRScA8bl_P6qGSJTPd3fapQNFuJ1-2lZh3gLDwa1gxNRuIu5UhlJjyd1WEPbTgA=w526-h296-rw" alt="Idle Bounty Gameplay 2" width="200">
+<img src="https://play-lh.googleusercontent.com/DIryRdh0Mlsr9gQeLZSXLkQnd-CcWVfSVDTLEltFsUg5EdcSHwJqM44zzL9JRVIQ1mY=w526-h296-rw" alt="Idle Bounty Gameplay 3" width="200">
 
 - Worked on battle mechanics, dialogs and speech bubble mechanics, world interaction.
 - Developed and integrated game mechanics, improving their performance and compliance with design requirements.

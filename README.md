@@ -26,9 +26,9 @@ I'm a passionate Unity game developer with a strong love for creating meaningful
 
 **Gameplay screenshots**
 
-<img src="https://play-lh.googleusercontent.com/3nAi0KNveyORPtnGHENT9tqnawe4RutZThlnLzfYc_R13i3vMFc9PMAnseN68XXYOs4N=w526-h296-rw" alt="Steppe games Gameplay 1" width="600" height="200"> 
-<img src="https://play-lh.googleusercontent.com/PN1cMy-hsrHKOb9RYDTms9HE3Lw5gamT2QaCnR15hdQKlAkv87geAlKXUFqS2RL7IOmG=w526-h296-rw" alt="Idle Steppe games 2" width="600" height="200"> 
-<img src="https://play-lh.googleusercontent.com/OH1O8rLil3kVQPKrrLEbde2-FJl-W2HcirSrU14-9et2MdxWBUbSinefAxE7X9tAB4k=w526-h296-rw" alt="Steppe games Gameplay 3" width="600" height="200">
+<img src="https://play-lh.googleusercontent.com/3nAi0KNveyORPtnGHENT9tqnawe4RutZThlnLzfYc_R13i3vMFc9PMAnseN68XXYOs4N=w526-h296-rw" alt="Steppe games Gameplay 1" width="600" height="300"> 
+<img src="https://play-lh.googleusercontent.com/PN1cMy-hsrHKOb9RYDTms9HE3Lw5gamT2QaCnR15hdQKlAkv87geAlKXUFqS2RL7IOmG=w526-h296-rw" alt="Idle Steppe games 2" width="600" height="300"> 
+<img src="https://play-lh.googleusercontent.com/OH1O8rLil3kVQPKrrLEbde2-FJl-W2HcirSrU14-9et2MdxWBUbSinefAxE7X9tAB4k=w526-h296-rw" alt="Steppe games Gameplay 3" width="600" height="300">
 
 - Leaded a small team.
 - Developed core mechanis such as cooking and quiz.

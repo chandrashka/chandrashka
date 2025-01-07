@@ -16,9 +16,7 @@ I'm a passionate Unity game developer with a strong love for creating meaningful
 
 **Gameplay screenshots**
 
-<img src="https://play-lh.googleusercontent.com/eZ_bokDYcxEQPHxLOPK_9KHyMmrGNhrFW2rGEgYmxh5VkBEK28TlCM5K8O7YONn_Zfw=w526-h296-rw" alt="Idle Bounty Gameplay 1" width="200"> 
-<img src="https://play-lh.googleusercontent.com/rJ2JRScA8bl_P6qGSJTPd3fapQNFuJ1-2lZh3gLDwa1gxNRuIu5UhlJjyd1WEPbTgA=w526-h296-rw" alt="Idle Bounty Gameplay 2" width="200">
-<img src="https://play-lh.googleusercontent.com/DIryRdh0Mlsr9gQeLZSXLkQnd-CcWVfSVDTLEltFsUg5EdcSHwJqM44zzL9JRVIQ1mY=w526-h296-rw" alt="Idle Bounty Gameplay 3" width="200">
+<img src="https://play-lh.googleusercontent.com/eZ_bokDYcxEQPHxLOPK_9KHyMmrGNhrFW2rGEgYmxh5VkBEK28TlCM5K8O7YONn_Zfw=w526-h296-rw" alt="Idle Bounty Gameplay 1" width="200"> <img src="https://play-lh.googleusercontent.com/rJ2JRScA8bl_P6qGSJTPd3fapQNFuJ1-2lZh3gLDwa1gxNRuIu5UhlJjyd1WEPbTgA=w526-h296-rw" alt="Idle Bounty Gameplay 2" width="200"> <img src="https://play-lh.googleusercontent.com/DIryRdh0Mlsr9gQeLZSXLkQnd-CcWVfSVDTLEltFsUg5EdcSHwJqM44zzL9JRVIQ1mY=w526-h296-rw" alt="Idle Bounty Gameplay 3" width="200">
 
 - Worked on battle mechanics, dialogs and speech bubble mechanics, world interaction.
 - Developed and integrated game mechanics, improving their performance and compliance with design requirements.

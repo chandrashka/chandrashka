@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9f005c38-c08b-440d-89ab-7ec717afbdcd)# Hi 👋, I'm Yuliia Ataman
+# Hi 👋, I'm Yuliia Ataman
 
 ## About Me
 

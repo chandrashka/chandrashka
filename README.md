@@ -22,6 +22,17 @@ I'm a passionate Unity game developer with a strong love for creating meaningful
 - Developed and integrated game mechanics, improving their performance and compliance with design requirements.
 - Worked with Odin, Strange IOC. Used MVC pattern to improve architecture and code flexibility
 
+### [Steppe games](https://play.google.com/store/apps/details?id=com.SteppeGame&hl=de) 
+
+**Gameplay screenshots**
+
+<img src="https://play-lh.googleusercontent.com/3nAi0KNveyORPtnGHENT9tqnawe4RutZThlnLzfYc_R13i3vMFc9PMAnseN68XXYOs4N=w526-h296-rw" alt="Steppe games Gameplay 1" width="600"> 
+<img src="https://play-lh.googleusercontent.com/PN1cMy-hsrHKOb9RYDTms9HE3Lw5gamT2QaCnR15hdQKlAkv87geAlKXUFqS2RL7IOmG=w526-h296-rw" alt="Idle Steppe games 2" width="600"> 
+<img src="https://play-lh.googleusercontent.com/OH1O8rLil3kVQPKrrLEbde2-FJl-W2HcirSrU14-9et2MdxWBUbSinefAxE7X9tAB4k=w526-h296-rw" alt="Steppe games Gameplay 3" width="600">
+
+- Leaded a small team.
+- Developed core mechanis such as cooking and quiz.
+
 ### [Flappy birdy](https://github.com/chandrashka/FlappyBirdy) 
 
 [Gameplay video](https://youtube.com/shorts/k9ACOCXhm1g)

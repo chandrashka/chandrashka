@@ -96,6 +96,9 @@ your base with a tank and kill enemies.
 - Unity
 - C#
 - Git
+- Odin
+- StrangeIoC
+- OOP
 
 ## Education
 
